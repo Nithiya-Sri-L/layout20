@@ -1,0 +1,217 @@
+  .header .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+ 
+  .banner .wrapper
+ {
+	width:80%;
+    margin:auto;	
+ }
+ .experience .wrapper
+ {
+	 width:90%;
+	 margin:auto;	
+ }
+ .education.wrapper
+ {
+	 width:90%;
+	 margin:auto;	
+ }
+ .contact
+ {
+	 width:100%;
+	 margin:auto;
+ }
+ .information .wrapper
+ {
+	  width:90%;
+	 margin:auto;	
+ }
+ .header
+ {
+	 height:80px;
+	 background-color:#ff5722;
+ }
+ .header .header-fc 
+ {
+	 display:flex;
+ }
+ .header .header-fc .home
+ {
+	 text-align:center;
+	 width:50%;
+	 height:80px;
+ }
+ .header .header-fc .navi
+ {
+	 text-align:center;
+	 background-color:#009688;
+	 width:50%;
+	 height:80px;
+ }
+ .banner 
+{
+	text-align:center;
+	height:500px;
+	background-color:#657e15;
+}
+ .banner .banner-fc 
+ {
+	 display:flex;
+	 justify-content:start;
+ }
+ .banner .banner-fc .download
+ {
+	 width:50%;
+	 height:100px;
+	 background-color:blue;
+	 margin-top:200px;
+ }
+ .experience 
+{
+	text-align:center;
+	height:800px;
+	background-color:#03a9f4;
+}
+ .experience  .experience-fc 
+ {
+	 display:flex;
+	 flex-direction:column;
+	 align-items:center;
+	 margin:auto;
+ }
+ .experience .experience-fc .boxa
+ {
+	 margin-top:100px;
+	 width:80%;
+	 height:150px;
+	 background-color:blue;
+ }
+ .experience  .experience-fc .boxb
+ {
+	 margin-top:100px;
+	 width:80%;
+	 height:150px;
+	 background-color:blue;
+ }
+ .experience  .experience-fc .boxc
+ {
+	 margin-top:100px;
+	 width:80%;
+	 height:150px;
+	 background-color:blue;
+ }
+ .education 
+{
+	text-align:center;
+	height:700px;
+	background-color:yellow;
+}
+ .education  .education-fc 
+ {
+	 display:flex;
+	 flex-direction:column;
+	 align-items:center;
+	 margin:auto;
+ }
+ .education .education-fc .boxa
+ {
+	 margin-top:100px;
+	 width:80%;
+	 height:150px;
+	 background-color:blue;
+ }
+ .education  .education-fc .boxb
+ {
+	 margin-top:100px;
+	 width:80%;
+	 height:150px;
+	 background-color:blue;
+ }
+ .skills
+ {
+	 background-color:pink;
+	 height:300px;
+	 text-align:center;
+ }
+ .intrests
+ {
+	 background-color:blue;
+	 height:300px;
+	 text-align:center;
+ }
+ .contact
+ {
+	 background-color:green;
+	 height:500px;
+	 text-align:center;
+ }
+ .contact .contact-fc 
+ {
+	 display:flex;
+	 justify-content:end;
+	 margin:auto;
+ }
+ .contact .contact-fc .boxa
+ {
+	 height:100px;
+	 width:40%;
+	 background-color:yellow;
+	 margin-top:200px;
+ }
+ .information
+{
+	background-color:#ff5722;
+	height:500px;
+	text-align:center;
+}
+.information .information-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.information .information-fc .boxa
+{
+	margin-top:90px;
+   height:300px;
+   width:18%;
+   background-color:#cddc39;
+}
+.information .information-fc .boxb
+{
+	margin-top:90px;
+    height:300px;
+  width:18%;
+   background-color:#cddc39;
+}
+.information .information-fc .boxc
+{
+	margin-top:90px;
+height:300px;
+width:18%;
+background-color:#cddc39;
+}
+.information .information-fc .boxd
+{
+	margin-top:90px;
+height:300px;
+width:18%;
+background-color:#cddc39;
+}
+.information .information-fc .boxe
+{
+	margin-top:90px;
+    height:300px;
+    width:18%;
+    background-color:#cddc39;
+}
+	 
+	 
+ 
+ 
+ 
+ 
+ 
+ 
